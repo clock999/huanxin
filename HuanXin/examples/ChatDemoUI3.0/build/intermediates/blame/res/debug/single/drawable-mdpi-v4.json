@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_unread_count_bg.9.png",
+        "source": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\tmp\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_unread_count_bg.9.png",
+        "source": "E:\\tmp\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tmp\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_ic_launcher.png",
+        "source": "E:\\tmp\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_ic_launcher.png"
+    },
+    {
+        "merged": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_ic_launcher.png",
+        "source": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tmp\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\tmp\\examples\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_logo_uidemo.png",
+        "source": "E:\\HuanXin\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_logo_uidemo.png"
+    },
+    {
+        "merged": "E:\\tmp\\examples\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\em_logo_uidemo.png",
+        "source": "E:\\tmp\\examples\\ChatDemoUI3.0\\res\\drawable-mdpi\\em_logo_uidemo.png"
+    }
+]
